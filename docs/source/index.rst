@@ -5,15 +5,7 @@
 
 .. raw:: html
 
-   <p align="center">
-     <picture>
-       <source media="(prefers-color-scheme: dark)" srcset="./images/sage-white.svg">
-       <source media="(prefers-color-scheme: light)" srcset="./images/sage-black.svg">
-       <img alt="SAGE" src="./images/sage-white.svg" style="max-width: 100%;">
-     </picture>
-   </p>
-
-
+    <object data="./images/sage-white.svg" type="image/svg+xml"></object>
 
 .. raw:: html
 
