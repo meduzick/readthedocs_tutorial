@@ -5,7 +5,8 @@
 
 .. raw:: html
 
-    <object data="./images/sage-white.svg" type="image/svg+xml"></object>
+    <object data="/Users/nikitamartynov/Desktop/readthedocs_tutorial/docs/source/_images/sage-white.svg" type="image/svg+xml"></object>
+
 
 .. raw:: html
 
