@@ -27,7 +27,7 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
-source_suffix = ['.md', '.rst']
+source_suffix = ['.rst']
 
 html_static_path = ['_images']
 
