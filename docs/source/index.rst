@@ -1,12 +1,15 @@
 .. role:: raw-html-m2r(raw)
    :format: html
 
-
-
 .. raw:: html
 
-    <object data="/Users/nikitamartynov/Desktop/readthedocs_tutorial/docs/source/_images/sage-white.svg" type="image/svg+xml"></object>
-
+    <p align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./_images/sage-white.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./_images/sage-black.svg">
+        <img alt="SAGE" src="./_images/sage-white.svg" style="max-width: 100%;">
+      </picture>
+    </p>
 
 .. raw:: html
 

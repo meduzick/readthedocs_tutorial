@@ -29,6 +29,8 @@ templates_path = ['_templates']
 
 source_suffix = ['.md', '.rst']
 
+html_static_path = ['_images']
+
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
