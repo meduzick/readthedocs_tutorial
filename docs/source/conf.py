@@ -29,7 +29,7 @@ templates_path = ['_templates']
 
 source_suffix = ['.rst']
 
-html_static_path = ['_images']
+html_static_path = ['images']
 
 # -- Options for HTML output
 

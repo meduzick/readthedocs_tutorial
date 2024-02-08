@@ -5,9 +5,9 @@
 
     <p align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="docs/source/_images/sage-white.svg">
-        <source media="(prefers-color-scheme: light)" srcset="docs/source/_images/sage-black.svg">
-        <img alt="SAGE" src="docs/source/_images/sage-black.svg" style="max-width: 100%;">
+        <source media="(prefers-color-scheme: dark)" srcset="images/sage-white.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/sage-black.svg">
+        <img alt="SAGE" src="images/sage-black.svg" style="max-width: 100%;">
       </picture>
     </p>
 
