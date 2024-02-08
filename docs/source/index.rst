@@ -1,14 +1,6 @@
 .. role:: raw-html-m2r(raw)
    :format: html
 
-.. raw:: html
-
-    <p align="center">
-      <picture>
-        <img src="test.png" style="max-width: 100%;">
-      </picture>
-    </p>
-
 .. image:: test.png
 
 
