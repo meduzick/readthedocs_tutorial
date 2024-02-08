@@ -17,16 +17,22 @@
        <a href="https://arxiv.org/abs/2308.09435">
        <img alt="Paper" src="https://img.shields.io/badge/arXiv-2308.09435-red">
        </a>
-
+       <a href="https://colab.research.google.com/github/ai-forever/sage/blob/main/notebooks/text_correction_demo.ipynb">
+       <img alt="Paper" src="https://colab.research.google.com/assets/colab-badge.svg/">
+       </a>
+       </a>
+       <a href="https://colab.research.google.com/github/ai-forever/sage/blob/main/notebooks/text_corruption_demo.ipynb">
+       <img alt="Paper" src="https://colab.research.google.com/assets/colab-badge.svg/">
+       </a>
    </p>
 
 
 .. raw:: html
 
-   <h2 align="center">
+   <h1 align="center">
        <p> Spelling correction, corruption and evaluation for multiple languages
    </p>
-   </h2>
+   </h1>
 
 
 
@@ -56,19 +62,10 @@ a complete solution that you need when working on a spelling problem:
 
   4️⃣ `T5-large <https://huggingface.co/ai-forever/T5-large-spell>`_
 
-🧩 Augment your data with spelling corruption algorithms, take a look at a quick demo
+🧩 **Augment your data with spelling corruption algorithms**
 
-📊 Evaluate performance of spelling correction tools.
+📊 **Evaluate performance of spelling correction tools**
 
-
-You can test them out right here
-.. image:: https://colab.research.google.com/assets/colab-badge.svg
-   :target: https://colab.research.google.com/github/ai-forever/sage/blob/main/notebooks/text_correction_demo.ipynb
-   :alt: Try Model Generation In Colab!
-
-.. image:: https://colab.research.google.com/assets/colab-badge.svg
-   :target: https://colab.research.google.com/github/ai-forever/sage/blob/main/notebooks/text_corruption_demo.ipynb
-   :alt: Try Model Generation In Colab!
 
 Table of contents
 -----------------
