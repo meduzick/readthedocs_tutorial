@@ -51,7 +51,6 @@ a complete solution that you need when working on a spelling problem:
 
 * 💯 Spelling correction with State-of-the-art pre-trained 🤗Transformer models:
 
-
   * `M2M100-1.2B <https://huggingface.co/ai-forever/RuM2M100-1.2B>`_
   * `M2M100-418M <https://huggingface.co/ai-forever/RuM2M100-418M>`_
   * `FredT5-large <https://huggingface.co/ai-forever/FRED-T5-large-spell>`_
@@ -59,11 +58,8 @@ a complete solution that you need when working on a spelling problem:
 
   You can test them out right here 
   .. image:: https://colab.research.google.com/assets/colab-badge.svg
-
-
      :target: https://colab.research.google.com/github/ai-forever/sage/blob/main/notebooks/text_correction_demo.ipynb
      :alt: Try Model Generation In Colab!
-
 
 * 🧩 Augment your data with spelling corruption algorithms, take a look at a quick demo 
   .. image:: https://colab.research.google.com/assets/colab-badge.svg
