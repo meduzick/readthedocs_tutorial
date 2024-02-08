@@ -56,17 +56,18 @@ a complete solution that you need when working on a spelling problem:
   * `FredT5-large <https://huggingface.co/ai-forever/FRED-T5-large-spell>`_
   * `T5-large <https://huggingface.co/ai-forever/T5-large-spell>`_
 
-  You can test them out right here 
+* 🧩 Augment your data with spelling corruption algorithms, take a look at a quick demo
+
+* 📊 Evaluate performance of spelling correction tools.
+
+You can test them out right here
   .. image:: https://colab.research.google.com/assets/colab-badge.svg
      :target: https://colab.research.google.com/github/ai-forever/sage/blob/main/notebooks/text_correction_demo.ipynb
      :alt: Try Model Generation In Colab!
 
-* 🧩 Augment your data with spelling corruption algorithms, take a look at a quick demo 
-  .. image:: https://colab.research.google.com/assets/colab-badge.svg
-     :target: https://colab.research.google.com/github/ai-forever/sage/blob/main/notebooks/text_corruption_demo.ipynb
-     :alt: Try Model Generation In Colab!
-
-* 📊 Evaluate performance of spelling correction tools.
+.. image:: https://colab.research.google.com/assets/colab-badge.svg
+   :target: https://colab.research.google.com/github/ai-forever/sage/blob/main/notebooks/text_corruption_demo.ipynb
+   :alt: Try Model Generation In Colab!
 
 Table of contents
 -----------------
