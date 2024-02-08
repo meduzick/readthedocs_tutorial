@@ -47,17 +47,11 @@
 SAGE (Spell checking via Augmentation and Generative distribution Emulation) is 
 a complete solution that you need when working on a spelling problem:
 
------------------
-
-* `Installation <#installation>`_
-
-  * `Regular install <#regular-install>`_
-  * `Editable install <#editable-install>`_
-
-
-* Spelling correction with State-of-the-art pre-trained 🤗Transformer models:
-* Augment your data with spelling corruption algorithms, take a look at a quick demo
-* Evaluate performance of spelling correction tools.
+1. Spelling correction with State-of-the-art pre-trained 🤗Transformer models:
+  * asdf
+  * asdf
+2. Augment your data with spelling corruption algorithms, take a look at a quick demo
+3. Evaluate performance of spelling correction tools.
 
 * `M2M100-1.2B <https://huggingface.co/ai-forever/RuM2M100-1.2B>`_
 * `M2M100-418M <https://huggingface.co/ai-forever/RuM2M100-418M>`_
