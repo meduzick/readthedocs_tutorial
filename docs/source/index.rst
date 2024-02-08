@@ -47,6 +47,9 @@
 SAGE (Spell checking via Augmentation and Generative distribution Emulation) is 
 a complete solution that you need when working on a spelling problem:
 
+Table of contents
+-----------------
+
 * `Installation <#installation>`_
 
   * `Regular install <#regular-install>`_
