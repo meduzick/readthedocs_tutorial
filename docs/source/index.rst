@@ -9,25 +9,7 @@
       </picture>
     </p>
 
-.. raw:: html
-
-    <p align="center">
-        <img src="test.png" style="max-width: 100%;">
-    </p>
-
 .. image:: test.png
-
-.. raw:: html
-
-    <object data="images/sage-black.svg" type="image/svg+xml"></object>
-
-.. raw:: html
-
-    <object data="test.png" type="image/svg+xml"></object>
-
-.. raw:: html
-
-    <img src="images/sage-black.svg"></img>
 
 
 .. raw:: html
