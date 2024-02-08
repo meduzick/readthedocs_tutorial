@@ -5,7 +5,7 @@
 
     <p align="center">
       <picture>
-        <img alt="SAGE" src="/home/docs/checkouts/readthedocs.org/user_builds/meduzick-readthedocs-tutorial/checkouts/latest/docs/source/images/test.png" style="max-width: 100%;">
+        <img src="images/test.png" style="max-width: 100%;">
       </picture>
     </p>
 
