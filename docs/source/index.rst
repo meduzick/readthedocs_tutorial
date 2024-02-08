@@ -21,7 +21,6 @@
    </p>
 
 
-
 .. raw:: html
 
    <h2 align="center">
@@ -47,6 +46,12 @@
 
 SAGE (Spell checking via Augmentation and Generative distribution Emulation) is 
 a complete solution that you need when working on a spelling problem:
+
+* `Installation <#installation>`_
+
+  * `Regular install <#regular-install>`_
+  * `Editable install <#editable-install>`_
+
 
 * Spelling correction with State-of-the-art pre-trained 🤗Transformer models:
 * Augment your data with spelling corruption algorithms, take a look at a quick demo
