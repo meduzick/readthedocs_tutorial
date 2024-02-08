@@ -5,9 +5,9 @@
 
     <p align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="/home/docs/checkouts/readthedocs.org/user_builds/meduzick-readthedocs-tutorial/checkouts/latest/docs/source/images/sage-white.svg">
-        <source media="(prefers-color-scheme: light)" srcset="/home/docs/checkouts/readthedocs.org/user_builds/meduzick-readthedocs-tutorial/checkouts/latest/docs/source/images/sage-black.svg">
-        <img alt="SAGE" src="/home/docs/checkouts/readthedocs.org/user_builds/meduzick-readthedocs-tutorial/checkouts/latest/docs/source/images/sage-white.svg" style="max-width: 100%;">
+        <source media="(prefers-color-scheme: dark)" srcset="/home/docs/checkouts/readthedocs.org/user_builds/meduzick-readthedocs-tutorial/checkouts/latest/docs/source/images/test.png">
+        <source media="(prefers-color-scheme: light)" srcset="/home/docs/checkouts/readthedocs.org/user_builds/meduzick-readthedocs-tutorial/checkouts/latest/docs/source/images/test.png">
+        <img alt="SAGE" src="/home/docs/checkouts/readthedocs.org/user_builds/meduzick-readthedocs-tutorial/checkouts/latest/docs/source/images/test.png" style="max-width: 100%;">
       </picture>
     </p>
 
