@@ -5,7 +5,7 @@
 
     <p align="center">
       <picture>
-        <img src="images/test.png" style="max-width: 100%;">
+        <img src="test.png" style="max-width: 100%;">
       </picture>
     </p>
 
