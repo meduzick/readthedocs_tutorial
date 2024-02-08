@@ -47,6 +47,14 @@
 SAGE (Spell checking via Augmentation and Generative distribution Emulation) is 
 a complete solution that you need when working on a spelling problem:
 
+.. raw:: html
+
+  <ul class="compact simple">
+  <li>Item one</li>
+  <li>Item two</li>
+  <li>Item three</li>
+  </ul>
+
 
 1. Spelling correction with State-of-the-art pre-trained 🤗Transformer models:
   * asdf
