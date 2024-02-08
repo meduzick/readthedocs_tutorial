@@ -2,6 +2,7 @@
    :format: html
 
 .. image:: images/sage-black.svg
+   :align: center
 
 
 .. raw:: html
