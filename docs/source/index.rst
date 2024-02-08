@@ -49,8 +49,7 @@ SAGE (Spell checking via Augmentation and Generative distribution Emulation) is
 a complete solution that you need when working on a spelling problem:
 
 
-* 
-  💯 Spelling correction with State-of-the-art pre-trained 🤗Transformer models:
+* 💯 Spelling correction with State-of-the-art pre-trained 🤗Transformer models:
 
 
   * `M2M100-1.2B <https://huggingface.co/ai-forever/RuM2M100-1.2B>`_
