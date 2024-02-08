@@ -299,16 +299,14 @@ You can use them as simple as
 ✅ To check how good SBSC actually approximates original errors, you can plot side-by-side graphs of original and 
 synthetically generated distributions:
 
-:raw-html-m2r:`<p align="center">`
-    :raw-html-m2r:`<br>`
-    :raw-html-m2r:`<img src="images/ruspellru_side_by_side.jpg" width="400" style="float:center; padding-right:60px"/>` 
-    :raw-html-m2r:`<img src="images/bea60k_side_by_side.jpg" width="400" style="float:center; padding-left:60px"/>`
-    :raw-html-m2r:`<br>`
 
+|pic1|  |pic2|
 
-.. raw:: html
+.. |pic1| image:: images/bea60k_side_by_side.jpg
+   :width: 45%
 
-   <p>
+.. |pic2| image:: images/ruspellru_side_by_side.jpg
+   :width: 45%
 
 
 
