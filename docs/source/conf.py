@@ -7,6 +7,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 print(sys.path)
+print(os.listdir("."))
 
 project = 'Lumache'
 copyright = '2021, Graziella'
