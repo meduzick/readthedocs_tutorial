@@ -66,6 +66,9 @@ a complete solution that you need when working on a spelling problem:
 
 📊 **Evaluate performance of spelling correction tools**
 
+`Installation`_
+
+`here <#installation>`_
 
 Table of contents
 -----------------
@@ -91,6 +94,7 @@ Table of contents
 
 * `Evaluation <#evaluation>`_
 * `Citation <#citation>`_
+
 
 Installation
 ------------
@@ -486,7 +490,7 @@ You can obtain these metrics simply by
    # {'Precision': 100.0, 'Recall': 100.0, 'F1': 100.0}
 
 ... or by directly assessing the model:
-
+r
 .. code-block:: python
 
    import torch
