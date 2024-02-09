@@ -284,6 +284,7 @@ You can use them as simple as
    corruptor = SBSCCorruptor.from_config(config)
 
 ... or you can initialize your SBSC from locally stored dataset:
+
 .. code-block:: python
 
    import os
@@ -485,6 +486,7 @@ You can obtain these metrics simply by
    # {'Precision': 100.0, 'Recall': 100.0, 'F1': 100.0}
 
 ... or by directly assessing the model:
+
 .. code-block:: python
 
    import torch
