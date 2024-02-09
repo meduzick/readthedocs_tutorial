@@ -40,12 +40,12 @@
 
    <div align="center">
      <h4>
-       <a href="#installation">Install</a> |
-       <a href="#spelling-correction">Models</a> |
-       <a href="#evaluation">Evaluation</a> |
-       <a href="#statistic-based-spelling-corruption-sbsc">SBSC</a> |
-       <a href="#augmentex">Augmentex</a> |
-       <a href="#citation">Papers</a>
+       <a href="#id1">Install</a> |
+       <a href="#id12">Models</a> |
+       <a href="#id24">Evaluation</a> |
+       <a href="#id7">SBSC</a> |
+       <a href="#id9">Augmentex</a> |
+       <a href="#id24">Papers</a>
      </h4>
    </div>
 
@@ -66,34 +66,31 @@ a complete solution that you need when working on a spelling problem:
 
 📊 **Evaluate performance of spelling correction tools**
 
-`Installation`_
-
-`here <#installation>`_
 
 Table of contents
 -----------------
 
 
-* `Installation <#installation>`_
+* `Installation <#id1>`_
 
-  * `Regular install <#regular-install>`_
-  * `Editable install <#editable-install>`_
+  * `Regular install <#id2>`_
+  * `Editable install <#id3>`_
 
-* `Quick demo <#quick-demo>`_
-* `Spelling corruption <#spelling-corruption>`_
+* `Quick demo <#id4>`_
+* `Spelling corruption <#id5>`_
 
-  * `Statistic-based Spelling Corruption (SBSC) <#statistic-based-spelling-corruption-sbsc>`_
-  * `Augmentex <#augmentex>`_
+  * `Statistic-based Spelling Corruption (SBSC) <#id7>`_
+  * `Augmentex <#id9>`_
 
-* `Spelling correction <#spelling-correction>`_
+* `Spelling correction <#id12>`_
 
   * `RUSpellRU evaluation <#ruspellru-evaluation>`_
   * `MultidomainGold evaluation <#multidomaingold-evaluation>`_
   * `MedSpellchecker evaluation <#medspellchecker-evaluation>`_
   * `GitHubTypoCorpusRu evaluation <#githubtypocorpusru-evaluation>`_
 
-* `Evaluation <#evaluation>`_
-* `Citation <#citation>`_
+* `Evaluation <#id24>`_
+* `Citation <#id24>`_
 
 
 Installation
@@ -490,7 +487,7 @@ You can obtain these metrics simply by
    # {'Precision': 100.0, 'Recall': 100.0, 'F1': 100.0}
 
 ... or by directly assessing the model:
-r
+
 .. code-block:: python
 
    import torch
