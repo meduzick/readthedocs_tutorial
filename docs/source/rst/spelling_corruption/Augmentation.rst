@@ -1,5 +1,10 @@
-:bar_chart: SBSC
+.. _augmentation:
+
+Augmentation
+====================
+
+📊 SBSC
 -------------------
 
-:pencil2: SBSC
+✏️ Augmentex
 -------------------

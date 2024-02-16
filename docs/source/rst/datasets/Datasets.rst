@@ -1,3 +1,8 @@
+.. _datasets:
+
+Datasets
+====================
+
 📕 RUSpellRU
 -------------------
 
@@ -10,5 +15,5 @@
 -------------------
 
 
-:octocat: GitHubTypoCorpusRu
+🐙 GitHubTypoCorpusRu
 -------------------
