@@ -718,19 +718,26 @@ resources for the task of spelling correction and procedures on obtaining high-q
    :caption: Datasets
    :hidden:
 
-   rst/datasets/Datasets
+   rst/datasets/RUSpellRU.rst
+   rst/datasets/MultidomainGold.rst
+   rst/datasets/MedSpellchecker.rst
+   rst/datasets/GitHubTypoCorpusRu.rst
 
 .. toctree::
    :caption: Models
    :hidden:
 
-   rst/spelling_correction/Models
+   rst/spelling_correction/M2M100-1.2B.rst
+   rst/spelling_correction/M2M100-418M.rst
+   rst/spelling_correction/FredT5-large.rst
+   rst/spelling_correction/T5.rst
 
 .. toctree::
    :caption: Augmentation
    :hidden:
 
-   rst/spelling_corruption/Augmentation
+   rst/spelling_corruption/SBSC.rst
+   rst/spelling_corruption/Augmentex.rst
 
 .. toctree::
    :caption: Evaluation
