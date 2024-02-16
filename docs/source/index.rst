@@ -716,6 +716,7 @@ resources for the task of spelling correction and procedures on obtaining high-q
 
 .. toctree::
    :hidden:
+   :maxdepth: 10
 
    rst/spelling_correction/Models
    rst/spelling_corruption/Augmentation

@@ -45,7 +45,7 @@ html_static_path = ['images']
 html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
-    'navigation_depth': 4,
+    'navigation_depth': 10,
 }
 
 # -- Options for EPUB output
