@@ -44,7 +44,7 @@ html_static_path = ['images']
 
 html_theme = 'sphinx_rtd_theme'
 
-html_sidebars = {'**': ['sidebar.html']}
+html_sidebars = {'**/*': ['_templates/includes/sidebar.html']}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
