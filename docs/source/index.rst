@@ -715,10 +715,26 @@ resources for the task of spelling correction and procedures on obtaining high-q
 *nikita.martynov.98@list.ru*
 
 .. toctree::
+   :caption: Datasets
    :hidden:
-   :maxdepth: 10
 
-   rst/spelling_correction/Models
-   rst/spelling_corruption/Augmentation
-   rst/datasets/Datasets
-   rst/evaluation/Evaluation
+   :doc:`rst/datasets/Datasets`
+
+.. toctree::
+   :caption: Models
+   :hidden:
+
+   :doc:`rst/spelling_correction/Models`
+
+.. toctree::
+   :caption: Augmentation
+   :hidden:
+
+   :doc:`rst/spelling_corruption/Augmentation`
+
+.. toctree::
+   :caption: Evaluation
+   :hidden:
+
+   :doc:`rst/evaluation/Evaluation`
+
