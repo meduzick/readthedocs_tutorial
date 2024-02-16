@@ -718,23 +718,23 @@ resources for the task of spelling correction and procedures on obtaining high-q
    :caption: Datasets
    :hidden:
 
-   :doc:`rst/datasets/Datasets`
+   rst/datasets/Datasets
 
 .. toctree::
    :caption: Models
    :hidden:
 
-   :doc:`rst/spelling_correction/Models`
+   rst/spelling_correction/Models
 
 .. toctree::
    :caption: Augmentation
    :hidden:
 
-   :doc:`rst/spelling_corruption/Augmentation`
+   rst/spelling_corruption/Augmentation
 
 .. toctree::
    :caption: Evaluation
    :hidden:
 
-   :doc:`rst/evaluation/Evaluation`
+   rst/evaluation/Evaluation
 
