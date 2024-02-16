@@ -25,6 +25,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinx_rtd_theme',
+    'sphinxemoji.sphinxemoji',
 ]
 
 intersphinx_mapping = {

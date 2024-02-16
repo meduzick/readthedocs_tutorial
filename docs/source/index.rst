@@ -444,6 +444,173 @@ Full list of setups and corresponding performances are in the `Paper <https://ar
 **Pre-train + fine-tune** setup is reported as a result of fine-tuning on combination of **RUSpellRU** and **MultidomainGold**
 datasets.
 
+.. list-table:: RUSpellRU Evaluation
+   :widths: 50 25 25 25
+   :header-rows: 1
+
+   * - Model
+     - Precision
+     - Recall
+     - F1
+   * - M2M100-1.2B (Pre-train)
+     - 59.4
+     - 43.3
+     - 50.1
+   * - M2M100-1.2B (Pre-train + fine-tune)
+     - 82.9
+     - 72.5
+     - **77.3**
+   * - M2M100-418M (Pre-train)
+     - 57.7
+     - 61.2
+     - 59.4
+   * - M2M100-418M (Pre-train + fine-tune)
+     - 81.8
+     - 63.4
+     - 71.4
+   * - FredT5-large (Pre-train)
+     - 58.5
+     - 42.4
+     - 49.2
+   * - FredT5-large (Pre-train + fine-tune)
+     - 55.1
+     - 73.2
+     - 62.9
+   * - ChatGPT text-davinci-003
+     - 55.9
+     - **75.3**
+     - 64.2
+   * - Yandex.Speller
+     - **83.0**
+     - 59.8
+     - 69.5
+
+
+.. list-table:: MultidomainGold Evaluation
+   :widths: 50 25 25 25
+   :header-rows: 1
+
+   * - Model
+     - Precision
+     - Recall
+     - F1
+   * - M2M100-1.2B (Pre-train)
+     - 56.4
+     - 44.8
+     - 49.9
+   * - M2M100-1.2B (Pre-train + fine-tune)
+     - **62.5**
+     - 60.9
+     - **61.7**
+   * - M2M100-418M (Pre-train)
+     - 32.8
+     - 56.3
+     - 41.5
+   * - M2M100-418M (Pre-train + fine-tune)
+     - 57.9
+     - 56.5
+     - 57.2
+   * - FredT5-large (Pre-train)
+     - 42.5
+     - 42.0
+     - 42.2
+   * - FredT5-large (Pre-train + fine-tune)
+     - 61.7
+     - 60.5
+     - 61.1
+   * - ChatGPT gpt-4-0314
+     - 34.0
+     - **73.2**
+     - 46.4
+   * - Yandex.Speller
+     - 52.9
+     - 51.4
+     - 52.2
+
+
+.. list-table:: MedSpellchecker Evaluation
+   :widths: 50 25 25 25
+   :header-rows: 1
+
+   * - Model
+     - Precision
+     - Recall
+     - F1
+   * - M2M100-1.2B (Pre-train)
+     - 63.7
+     - 57.8
+     - 60.6
+   * - M2M100-1.2B (Pre-train + fine-tune)
+     - 78.8
+     - **71.4**
+     - **74.9**
+   * - M2M100-418M (Pre-train)
+     - 23.2
+     - 64.5
+     - 34.1
+   * - M2M100-418M (Pre-train + fine-tune)
+     - 73.1
+     - 62.4
+     - 67.3
+   * - FredT5-large (Pre-train)
+     - 37.2
+     - 51.7
+     - 43.3
+   * - FredT5-large (Pre-train + fine-tune)
+     - 37.5
+     - 59.3
+     - 45.9
+   * - ChatGPT gpt-4-0314
+     - 54.2
+     - 69.4
+     - 60.9
+   * - Yandex.Speller
+     - **80.6**
+     - 47.8
+     - 60.0
+
+
+.. list-table:: GitHubTypoCorpusRu Evaluation
+   :widths: 50 25 25 25
+   :header-rows: 1
+
+   * - Model
+     - Precision
+     - Recall
+     - F1
+   * - M2M100-1.2B (Pre-train)
+     - 45.7
+     - 41.4
+     - 43.5
+   * - M2M100-1.2B (Pre-train + fine-tune)
+     - 47.1
+     - 42.9
+     - 44.9
+   * - M2M100-418M (Pre-train)
+     - 27.5
+     - 42.6
+     - 33.4
+   * - M2M100-418M (Pre-train + fine-tune)
+     - 42.8
+     - 37.8
+     - 40.2
+   * - FredT5-large (Pre-train)
+     - 52.7
+     - 42.4
+     - 46.6
+   * - FredT5-large (Pre-train + fine-tune)
+     - 61.2
+     - 45.4
+     - **52.1**
+   * - ChatGPT text-davinci-003
+     - 46.5
+     - **58.1**
+     - 51.7
+   * - Yandex.Speller
+     - **67.7**
+     - 37.5
+     - 48.3
+
 
 All the mentioned datasets are available as HuggingFace datasets `here <https://huggingface.co/datasets/ai-forever/spellcheck_benchmark>`_ and through the API of our library: 
 
@@ -546,3 +713,11 @@ resources for the task of spelling correction and procedures on obtaining high-q
 📌 Feel free to ask any questions regarding our work at corresponding point of contact:
 
 *nikita.martynov.98@list.ru*
+
+.. toctree::
+   :hidden:
+
+   rst/spelling_correction/Models
+   rst/spelling_corruption/Augmentation
+   rst/datasets/Datasets
+   rst/evaluation/Evaluation
