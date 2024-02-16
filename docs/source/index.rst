@@ -743,5 +743,6 @@ resources for the task of spelling correction and procedures on obtaining high-q
    :caption: Evaluation
    :hidden:
 
-   rst/evaluation/Evaluation
+   rst/evaluation/Errant.rst
+   rst/evaluation/WOS.rst
 
