@@ -9,12 +9,12 @@ sys.path.insert(0, os.path.abspath('.'))
 print(sys.path)
 print(os.listdir("."))
 
-project = 'Lumache'
+project = 'SAGE'
 copyright = '2021, Graziella'
-author = 'Graziella'
+author = 'Nikita Martynov'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '1.0.0'
 
 # -- General configuration
 
@@ -43,6 +43,8 @@ html_static_path = ['images']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+
+html_sidebars = {'**': ['sidebar.html']}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
